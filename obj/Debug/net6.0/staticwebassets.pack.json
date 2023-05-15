@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/css/style-starter.css",
+      "PackagePath": "staticwebassets/css/style-starter.css"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/banner.jpg",
+      "PackagePath": "staticwebassets/images/banner.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/banner.png",
+      "PackagePath": "staticwebassets/images/banner.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/banner3.jpg",
+      "PackagePath": "staticwebassets/images/banner3.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/bg1.jpg",
+      "PackagePath": "staticwebassets/images/bg1.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/bg2.jpg",
+      "PackagePath": "staticwebassets/images/bg2.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/bg3.jpg",
+      "PackagePath": "staticwebassets/images/bg3.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/blog1.jpg",
+      "PackagePath": "staticwebassets/images/blog1.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/blog2.jpg",
+      "PackagePath": "staticwebassets/images/blog2.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/blog3.jpg",
+      "PackagePath": "staticwebassets/images/blog3.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/c1.jpg",
+      "PackagePath": "staticwebassets/images/c1.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/c2.jpg",
+      "PackagePath": "staticwebassets/images/c2.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/c3.jpg",
+      "PackagePath": "staticwebassets/images/c3.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/c4.jpg",
+      "PackagePath": "staticwebassets/images/c4.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/c5.jpg",
+      "PackagePath": "staticwebassets/images/c5.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/c6.jpg",
+      "PackagePath": "staticwebassets/images/c6.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/icon-1.png",
+      "PackagePath": "staticwebassets/images/icon-1.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/icon-2.png",
+      "PackagePath": "staticwebassets/images/icon-2.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/icon-3.png",
+      "PackagePath": "staticwebassets/images/icon-3.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/icon-4.png",
+      "PackagePath": "staticwebassets/images/icon-4.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/image.jpg",
+      "PackagePath": "staticwebassets/images/image.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/img1.jpg",
+      "PackagePath": "staticwebassets/images/img1.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/team1.png",
+      "PackagePath": "staticwebassets/images/team1.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/team2.png",
+      "PackagePath": "staticwebassets/images/team2.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/team3.png",
+      "PackagePath": "staticwebassets/images/team3.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/team4.png",
+      "PackagePath": "staticwebassets/images/team4.png"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/testi1.jpg",
+      "PackagePath": "staticwebassets/images/testi1.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/testi2.jpg",
+      "PackagePath": "staticwebassets/images/testi2.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/images/testi3.jpg",
+      "PackagePath": "staticwebassets/images/testi3.jpg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/js/counter.js",
+      "PackagePath": "staticwebassets/js/counter.js"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/js/jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/js/theme-change.js",
+      "PackagePath": "staticwebassets/js/theme-change.js"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/ali/Projects/MVC_TEMPLATESs/MVC_TEMPLATESs/wwwroot/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.MVC_TEMPLATESs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.MVC_TEMPLATESs.props",
+      "PackagePath": "build\\MVC_TEMPLATESs.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MVC_TEMPLATESs.props",
+      "PackagePath": "buildMultiTargeting\\MVC_TEMPLATESs.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MVC_TEMPLATESs.props",
+      "PackagePath": "buildTransitive\\MVC_TEMPLATESs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
